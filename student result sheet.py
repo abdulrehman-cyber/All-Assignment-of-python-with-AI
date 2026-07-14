@@ -11,15 +11,12 @@ frame = tk.Frame(window, padx=10, pady=10)
 frame.pack()
 
 result = tk.StringVar()
-
 result.set("Result will appear here")
 
+
 tk.Label(frame, text="Student Name:").grid(row=0, column=0, sticky="w")
-
 tk.Label(frame, text="English (Out of 100): ").grid(row=1, column=0, sticky="w")
-
 tk.Label(frame, text="Maths (Out of 100): ").grid(row=2, column=0, sticky="w")
-
 tk.Label(frame, text="Urdu (Out of 100): ").grid(row=3, column=0, sticky="w")
 
 
@@ -39,7 +36,6 @@ urdu_entry.grid(row=3, column=1)
 def generate_result():
     
     name = name_entry.get()
-    # validate numeric input
     try:
         english_marks = int(english_entry.get())
         maths_marks = int(maths_entry.get())
