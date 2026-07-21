@@ -1,0 +1,21 @@
+Student_ID,Name,Age,Gender,City,Course,Python_Marks,Math_Marks,English_Marks,Attendance,Fee_Paid
+1001,Ali,20,Male,Lahore,AI,85,78,88,92,Yes
+1002,Ayesha,21,Female,Karachi,Data Science,91,85,90,95,Yes
+1003,Ahmed,22,Male,Islamabad,ML,76,80,74,88,No
+1004,Sana,20,Female,Faisalabad,AI,89,92,91,96,Yes
+1005,Usman,23,Male,Multan,Web Dev,65,70,68,80,No
+1006,Maria,21,Female,Lahore,Data Science,94,90,95,98,Yes
+1007,Hassan,22,Male,Peshawar,ML,82,79,81,90,Yes
+1008,Zainab,20,Female,Quetta,AI,87,84,89,93,Yes
+1009,Bilal,24,Male,Sialkot,Web Dev,71,75,72,85,No
+1010,Fatima,21,Female,Gujranwala,Data Science,96,94,97,99,Yes
+1011,Hamza,22,Male,Lahore,AI,78,82,80,87,Yes
+1012,Hina,20,Female,Karachi,ML,90,88,91,94,Yes
+1013,Saad,23,Male,Islamabad,Data Science,67,72,70,82,No
+1014,Iqra,21,Female,Multan,AI,88,91,86,95,Yes
+1015,Danish,22,Male,Faisalabad,Web Dev,74,77,73,84,No
+1016,Noor,20,Female,Lahore,ML,93,89,94,97,Yes
+1017,Areeb,24,Male,Peshawar,Data Science,69,71,67,79,No
+1018,Mahnoor,21,Female,Quetta,AI,92,95,93,98,Yes
+1019,Talha,22,Male,Sialkot,ML,81,83,79,89,Yes
+1020,Laiba,20,Female,Gujranwala,Data Science,97,96,98,100,Yes
